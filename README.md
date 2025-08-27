@@ -33,6 +33,3 @@ Developed by [juthing](https://github.com/juthing).
 <div align="center">
   <strong>(No)ddy</strong> — Built with ❤️ by <a href="https://github.com/juthing">juthing</a>
 </div>
-
----
-
